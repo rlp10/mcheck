@@ -18,6 +18,8 @@ Usage
 Currently, only the following subcommands work:
 
 mcheck tv <path> - checks multiple series from specified path
+
 mcheck seasons <path> - checks multiple seasons of one series from specified path
+
 mcheck episodes <path> - checks single season at specified path
 
